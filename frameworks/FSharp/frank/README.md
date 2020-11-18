@@ -5,7 +5,7 @@ This includes tests for plaintext, json, and fortunes HTML serialization.
 
 **Language**
 
-* F# 4.7
+* F# 5.0
 
 **Platforms**
 

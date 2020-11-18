@@ -12,13 +12,13 @@
         "database": "Postgres",
         "framework": "Frank",
         "language": "F#",
-        "orm": "micro",
+        "orm": "Raw",
         "platform": ".NET",
         "flavor": "CoreCLR",
         "webserver": "Kestrel",
         "os": "Linux",
         "database_os": "Linux",
-        "display_name": "Frank, Dapper",
+        "display_name": "Frank, ADO.NET",
         "notes": "",
         "versus": "aspcore"
       }
